@@ -1,0 +1,72 @@
+мар. 31, 2023 12:59:28 AM Lesson2.task.Task3 write
+INFO: Error
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 5, 7, 6, 9, 2, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 7, 6, 9, 5, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 7, 9, 6, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 9, 7, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:12:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:13:56 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 5, 7, 6, 9, 2, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 7, 6, 9, 5, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 7, 9, 6, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 9, 7, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:13:57 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:05 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 5, 7, 6, 9, 2, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 7, 6, 9, 5, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 7, 9, 6, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 9, 7, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:06 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:10 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 5, 7, 6, 9, 2, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 7, 6, 9, 5, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 7, 9, 6, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 9, 7, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+мар. 31, 2023 8:14:11 PM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 5, 7, 6, 9, 2, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 7, 6, 9, 5, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 7, 9, 6, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 9, 7, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
+апр. 05, 2023 5:04:29 AM Lesson2.task.HW1 bubbleSort
+INFO: [0, 2, 5, 6, 7, 9, 10]
