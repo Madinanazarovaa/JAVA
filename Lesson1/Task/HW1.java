@@ -1,4 +1,4 @@
-package Lesson1.Task;
+package Lesson1.task;
 
 //Вычислить n-ое треугольного число(сумма чисел от 1 до n)
 

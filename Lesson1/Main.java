@@ -1,6 +1,6 @@
 package Lesson1;
 
-import Lesson1.Task.*;
+import Lesson1.task.*;
 public class Main {
     public static void main(String[] args) {
         // Task1.run();
@@ -9,11 +9,11 @@ public class Main {
         // System.out.println(Task2.run(array2));
 
 
-        HW1.calculateTriangularNumber();
+        //HW1.calculateTriangularNumber();
         
-        HW2.outputOfPrimeNumbers();
+        //HW2.outputOfPrimeNumbers();
 
-        HW3.calculator();
+       HW3.calculator();
 
     }
 }

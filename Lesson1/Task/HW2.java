@@ -1,4 +1,4 @@
-package Lesson1.Task;
+package Lesson1.task;
 
 //Вывести все простые числа от 1 до 1000
 

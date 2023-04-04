@@ -1,4 +1,4 @@
-package Lesson1.Task;
+package Lesson1.task;
 import java.util.Scanner;
 
 //Реализовать простой калькулятор
